@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-madrid-events",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Madrid Events MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-fe7de3fa77c42cbae9cd0cf4457b45428ee58c8d6dcc763ec7ed3d271ec1db0e",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-609694fc90a03a48553b4973c0a5867ed6b46f8d04e6ac4dc8a75b76547b125f",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
