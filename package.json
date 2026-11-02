@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-madrid-events",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Madrid Events MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "madrid-events",
     "gatewaySlug": "madrid-events",
-    "sourceHash": "v1-147d2cf4cb36a6f119fb541169f0e9dd27707ffcb5e94a20918d95d46ad077b1",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-a0cf1224c1bd030a0fcc60ae08a817492d547d91af7cb9bf92aa5d8e1f4b68f2",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
